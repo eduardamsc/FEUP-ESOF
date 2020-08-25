@@ -6,7 +6,7 @@ Element | College e-mail
 --------|----------------
 Diogo Peixoto Pereira | up201504326@fe.up.pt
 Maria Eduarda Santos Cunha | up201506524@fe.up.pt
-Pedro Miguel Ferraz Nogueira da Silva | up201506524@fe.up.pt
+Pedro Miguel Ferraz Nogueira da Silva | up201505460@fe.up.pt
 
 Work developed for Software Engineering (ESOF).
 
